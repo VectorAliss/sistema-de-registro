@@ -5,3 +5,4 @@
 Para ejecutar el sistema, debs poner:
 
 ```npm install react```
+Sistema de Registro 2
